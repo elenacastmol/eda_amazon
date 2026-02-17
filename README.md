@@ -39,7 +39,7 @@ El proyecto incluye un **dashboard interactivo en Excel** que permite explorar l
 2. Usar los **filtros y segmentaciones** de Excel para:
    - Filtrar por año (2022 / 2023) y por trimestre 📅  
    - Seleccionar regiones específicas 🌍  
-   - Analizar días de la semana, semanas o meses 📊 
+   - Analizar por meses, días de la semana o intervalos de día del mes 📊 
    
 3. Navegar por las pestañas correspondientes a:
    - **Resumen Global**: KPIs generales como pedidos, productos vendidos, ingresos y precio medio. 🛒💰  
@@ -53,7 +53,7 @@ El proyecto incluye un **dashboard interactivo en Excel** que permite explorar l
 - **Patrones de compra**: Distribución de pedidos por día de la semana y por tramos del mes. 📅  
 - **Comparación regional**: Detectar tendencias, volatilidad y preferencias de pago en cada región. 💳  
 
-> 💡 Tip: Combina filtros para analizar para los análisis
+> 💡 Tip: Combina filtros para un mayor detalle de análisis
 
 ## 4. 📊 Resultados y conclusiones
 
@@ -118,7 +118,7 @@ El proyecto incluye un **dashboard interactivo en Excel** que permite explorar l
 **Elena Castañeda**
 - [@elenacastmol]{https://github.com/elenacastmol]
 
-Proyecto personal para análisis de datos en trading/e-commerce
+Proyecto personal para análisis de datos y creación de dashboard en Excel
 
 ## 7. 🗄️ Fuente Base de Datos
 
